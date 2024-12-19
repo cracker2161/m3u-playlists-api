@@ -1,0 +1,9 @@
+{
+    "is_active": false,
+    "schedule": {
+        "start_time": "00:00",
+        "end_time": "23:59"
+    },
+    "maintenance_mode": false,
+    "last_updated": "2024-12-18T17:17:23.490097"
+}
